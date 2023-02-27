@@ -453,7 +453,7 @@ header .mega-menu ul li a i{
     transition: .3s;
 }
 .gallery .container .image-g:hover img{
-    transform: rotate(3deg) scale(1.5);
+    transform: rotate(3deg) scale(1.2);
 }
 
 /*features*/
